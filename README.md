@@ -22,4 +22,4 @@ The final test statistics were an R-squared value of .792 and Root Mean Squared 
 
 An R-squared value of .792 is considered moderately strong. Future improvments can be made by adding more relevant predictors, increasing sample sizes by incorporating more data sets, selecting predictor variables with more variance, and reassessing predictor variables with high multicollinearity.
 
-![Predicted vs Actual Sale Prices](pred_vs_actual.png)
+![Predicted vs Actual Sale Prices](multiple-linear-regressions-of-housing-data-graph.png)
