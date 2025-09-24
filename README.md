@@ -18,6 +18,6 @@ I used Kaggle to create a multiple regression model using sample housing price d
 -Create visualizations of the results
 
 # Results
-The final test statistics were an R-squared value of .761 and Root Mean Squared Error of 38815.45. These means the model explains 76.1% of the variability of the data and predicts housing prices on average within $38,815.45.
+The final test statistics were an R-squared value of .792 and Root Mean Squared Error of 39979.43. These means the model explains 79.2% of the variability of the data and predicts housing prices on average within $39,979.43.
 
-An R-squared value of .761 is considered moderately strong. Future improvments can be made by adding more relevant predictors, increasing sample sizes by incorporating more data sets, selecting predictor variables with more variance, and reassessing predictor variables with high multicollinearity.
+An R-squared value of .792 is considered moderately strong. Future improvments can be made by adding more relevant predictors, increasing sample sizes by incorporating more data sets, selecting predictor variables with more variance, and reassessing predictor variables with high multicollinearity.
